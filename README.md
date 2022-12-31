@@ -54,8 +54,9 @@ ___
 </p>
 
 <p align="center">
-<a href="https://"><img align="center" src="https://github-cardname.caliph.my.id/api?name=Keiji&description=Hi,%20i%27m%20Keiji%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/PakMoss&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@&github=PakMoss&pattern=ticTacToe&colorPattern=%23eaeaea&site=Shootensai Tanjōbi Keiji"/></a>
+<a href="https://"><img align="center" src="https://github-cardname.caliph.my.id/api?name=Keiji&description=Hi,%20i%27m%20Keiji%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/PakMoss&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@pakmoss&github=PakMoss&pattern=ticTacToe&colorPattern=%23eaeaea&site=PakMoss"/></a>
 </p>
+
 <p align='center'>
 <a href="https://instagram.com/_veansh_"><img height="30" src="https://storage.caliph.my.id/img/instagram.svg"></a>&nbsp;&nbsp;
 </p>
