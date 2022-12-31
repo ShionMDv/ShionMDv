@@ -54,7 +54,7 @@ ___
 </p>
 
 <p align="center">
-<a href="https://"><img align="center" src="https://github-cardname.caliph.my.id/api?name=Keiji&description=Hi,%20i%27m%20Keiji%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/PakMoss&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@pakmosss&github=PakMoss&pattern=ticTacToe&colorPattern=%23eaeaea&site=ShootensaiKeiji"/></a>
+<a href="https://"><img align="center" src="https://github-cardname.caliph.my.id/api?name=Keiji&description=Hi,%20i%27m%20Keiji%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/PakMoss&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@pakmosss&github=PakMoss&pattern=ticTacToe&colorPattern=%23eaeaea&site=ShootensaiTanjōbiKeiji"/></a>
 </p>
 
 <p align='center'>
