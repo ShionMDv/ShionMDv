@@ -86,7 +86,9 @@ ___
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=PakMoss&repo=Wa-OpenAI&theme=highcontrast)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=PakMoss&repo=RestApi&theme=highcontrast)
 
-<center><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" /></center>
+<p align="center">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
+ </p>
 
 
 <!--START_SECTION:waka-->
