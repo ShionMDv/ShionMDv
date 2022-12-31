@@ -82,7 +82,7 @@ ___
 
 ### Repo Stats 🔭
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=PakMoss&repo=PakMoss&theme=highcontrast)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=PakMoss&repo=whatsapp-web.js&theme=highcontrast)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=PakMoss&repo=PakMoss&theme=highcontrast)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=PakMoss&repo=Wa-OpenAI&theme=highcontrast)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=PakMoss&repo=RestApi&theme=highcontrast)
 
