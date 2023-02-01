@@ -1,39 +1,40 @@
 
 <h1 align="center">
  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello+World!+I+am+Keiji;I+love+building+things+that+live+on+the+internet">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello!+I+am+Kyami;Developer+Ori+Silence+&+Columbina">
   </a>
 </h1>
 
 
-<p><em>Developer at <a href="https://chat.whatsapp.com/">Keiji - TEAM MW  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em>Developer at <a href="https://chat.whatsapp.com/Gogx2zzBx1T9aKzEQtEZ7Y">Silence - Columbina  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/)
-[![GitHub](https://img.shields.io/github/followers/PakMoss?label=follow&style=social)](https://github.com/PakMoss)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_alv.stn)
+[![GitHub](https://img.shields.io/github/followers/ShionMDv?label=follow&style=social)](https://github.com/ShionMDv)
 
 
-### <img src="https://media3.giphy.com/media/jUZmz3kAiAuLC/200.webp?cid=ecf05e472ppgejelz9vrs67x38inpt96dl2x6i0z51br0jfh&rid=200.webp" width="40"> A little more about me...  
+### <img src="https://media3.giphy.com/media/jUZmz3kAiAuLC/200.webp?cid=ecf05e472ppgejelz9vrs67x38inpt96dl2x6i0z51br0jfh&rid=200.webp" width="40"> Sesuatu Tentang Kyami  
 
 <p align="center">
   <img alig src="./code.gif" />
 </p>
 
 ```javascript
-const keiji = {
+const kyami = {
   pronouns: "he" | "him",
   code: [Python, C++, Javascript, HTML, CSS, Scripting],
   tools: [React, , ReactNative, Node, Styled-Components, Docker, Etc],
   otherHobbiesAndStuff: {       
-                        Studying: "Always something new! now playing with NextJS",
-                        Music: "Tabun - Yoasobi",
+                        MyHobby: "Hard to Explain With Logic :D"
+                        Studying: "In Universitas Semarang",
+                        Music: "I liked a Phonk Sound >///<",
                       },
- challenge: "I try to at least learn something new every day"
+ challenge: "I Always Understand New Things Every Changing Day"
 }
 ```
 
 
-<img src="https://media0.giphy.com/media/Wj7lNjMNDxSmc/200.webp?cid=ecf05e47gol7hyzftrdpoaar8lchrj2uzbzs0qoz3xgzv14o&rid=200.webp" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media0.giphy.com/media/Wj7lNjMNDxSmc/200.webp?cid=ecf05e47gol7hyzftrdpoaar8lchrj2uzbzs0qoz3xgzv14o&rid=200.webp" width="60"> <em><b>I like to meet new people. Can we greet each other when we meet?</b> :)</em>
 
 
 <p align="center">
@@ -47,36 +48,47 @@ const keiji = {
 
 ___
 ```
-       You Visitors To:
+       My Visitors To:
 ```
 <p align="center">
-<img align="center" alt="count" src="https://count.getloli.com/get/@:Keiji?theme=rule34">
+<img align="center" alt="count" src="https://count.getloli.com/get/@:ShionMDv?theme=rule34">
 </p>
 
 <p align="center">
-<a href="https://"><img align="center" src="https://github-cardname.caliph.my.id/api?name=Keiji&description=Hi,%20i%27m%20Keiji%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/PakMoss&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@pakmosss&github=PakMoss&pattern=ticTacToe&colorPattern=%23eaeaea&site=ShootensaiTanjōbiKeiji"/></a>
+<a href="https://"><img align="center" src="https://github-cardname.caliph.my.id/api?name=Kyami&description=Hi,%20i%27m%20Kyami%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/ShionMDv&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@_alv.stn&github=ShionMDv&pattern=ticTacToe&colorPattern=%23eaeaea&site=Follow+my+Instagram+and+my+Github"/></a>
 </p>
 
-<p align='center'>
-<a href="https://instagram.com/_veansh_"><img height="30" src="https://storage.caliph.my.id/img/instagram.svg"></a>&nbsp;&nbsp;
-</p>
-___
+---------
+## ```Connect With Me``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
+  <a href="https://wa.me/6287734910547">
+    <img align="left" alt="Kyami | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://tiktok.com/@wvinz">
+    <img align="left" alt="Kyami | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://instagram.com/_alv.stn">
+    <img align="left" alt="Kyami | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="alvinrinegar@mail.com">
+    <img align="left" alt="Kyami | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
+---------
 
-### [`👇 INTRO MY SELF`](https://instagram.com/)
+### [`👇 INTRO MY SELF`](https://instagram.com/_alv.stn)
 ```
-"Name": "Keiji",
-"Status": "Studying Trunojoyo Madura University",
-"Address": "Surabaya, Jawa Timur, Indonesia",
-"Age": "20 Years Old",
-"Birthday": "Private"
+"Name": "Kyami",
+"Status": "Studying Universitas Semarang",
+"Address": "Semarang, Jawa Tengah, Indonesia",
+"Age": "18 Years Old",
+"Birthday": "15 Maret 2004"
    
 "Big Thanks To"
 
   "- Allah S.W.T"
-  "- TeamProviderXploit"
-  "- ΛNU Team"
-  "- Ekuzika Ofc"
-  "- And My Partner"
+  "- My Parent"
+  "- Silence Team"
+  "- Fokus ID"
+  "- And All My Partner"
 ```
 ___
 
@@ -89,44 +101,43 @@ ___
 ------
 
 ### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=PakMoss&repo=PakMoss&theme=highcontrast)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=PakMoss&repo=PakMoss&theme=highcontrast)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=PakMoss&repo=Wa-OpenAI&theme=highcontrast)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=PakMoss&repo=RestApi&theme=highcontrast)
-
 <p align="center">
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
- </p>
+  <a href="https://github.com/bolaxd/ballbotV2"><img width="288" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bolaxd&repo=ballbotV2&theme=chartreuse-dark&icon_color=0000e6&title_color=00ff00&bg_color=000000&text_color=ffffff&disable_animations=false"></a>
+  <a href="https://github.com/ShionMDv/XhimmerMDv3"><img width="288" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ShionMDv&repo=XhimmerMDv3&theme=chartreuse-dark&icon_color=0000e6&title_color=00ff00&bg_color=000000&text_color=ffffff&disable_animations=false"></a>
+    <a href="https://github.com/davekgw"><img width="288" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=davekgw&repo=kannabot&theme=chartreuse-dark&icon_color=0000e6&title_color=00ff00&bg_color=000000&text_color=ffffff&disable_animations=false"></a>
+<a href="https://github.com/bolaxd/bot-read-sw"><img width="288" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bolaxd&repo=bot-read-sw&theme=chartreuse-dark&icon_color=0000e6&title_color=00ff00&bg_color=000000&text_color=ffffff&disable_animations=false"></a>
+</p>
 
+------
 
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
    
    <p align="center">
-  <a href="https://github.com/PakMoss"><img src="https://github-readme-stats.vercel.app/api?username=PakMoss&theme=tokyonight&show_icons=true" /></a>
+  <a href="https://github.com/ShionMDv"><img src="https://github-readme-stats.vercel.app/api?username=ShionMDv&theme=tokyonight&show_icons=true" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/PakMoss"><img src="https://github-readme-streak-stats.herokuapp.com?user=PakMoss&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+  <a href="https://github.com/ShionMDv"><img src="https://github-readme-streak-stats.herokuapp.com?user=ShionMDv&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
   
 <p align="center">
-  <a href="https://github.com/PakMoss"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=PakMoss&theme=tokyonight&layout=compact" /></a>
+  <a href="https://github.com/ShionMDv"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShionMDv&theme=tokyonight&layout=compact" /></a>
 </p>
   
 <p align="center">
-  <a href="https://github.com/PakMoss"><img src="https://github-profile-trophy.vercel.app/?username=PakMoss&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+  <a href="https://github.com/ShionMDv"><img src="https://github-profile-trophy.vercel.app/?username=ShionMDv&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
     
 
-### [`📬 My Whatsapp`](https://api.whatsapp.com/send?phone=62&text=Assalamualaikum+Bang)
-### [`📬 My Website`](https://)
+### [`📬 My Whatsapp`](https://api.whatsapp.com/send?phone=6287734910547&text=Assalamualaikum+Bang)
+### [`📬 My Website`](https://Belum-Buat-Anjic.bitly)
     
 <p align="center">
-<a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/_alv.stn" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="-@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://api.whatsapp.com/send?phone=62&text=Assalamualaikum+Bang" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
+<a href="https://api.whatsapp.com/send?phone=6287734910547&text=Assalamualaikum+Bang" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
 ___
