@@ -77,7 +77,7 @@ ___
 ### [`👇 INTRO MY SELF`](https://instagram.com/_alv.stn)
 ```
 "Name": "Kyami",
-"Status": "Studying Universitas Semarang",
+"Status": "Studying at the University of Semarang",
 "Address": "Semarang, Jawa Tengah, Indonesia",
 "Age": "18 Years Old",
 "Birthday": "15 Maret 2004"
