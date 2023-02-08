@@ -6,7 +6,7 @@
 </h1>
 
 
-<p><em>Developer at <a href="https://chat.whatsapp.com/Gogx2zzBx1T9aKzEQtEZ7Y">Silence - Columbina  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em>Developer at <a href="https://chat.whatsapp.com/Gogx2zzBx1T9aKzEQtEZ7Y">SilenceBot - Columbina  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_alv.stn)
