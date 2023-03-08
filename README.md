@@ -1,12 +1,10 @@
 <h1 align="center">Makasih Udah Mampir Coi🔥</h2>
-  <2 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello!+I+am+Kyami;Developer+Ori+SilenceBot+And+ColumbinaBot">
+  <2 href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello!+I+am+Kyami;Developer+Ori+SilenceBot+And+ColumbinaBot">
   </a>
   <div align="center">
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
   </div>
-<p align="center">
-  <img alig src="./code.gif" />
-</p>
 
 <p><em>Developer at <a href="https://chat.whatsapp.com/Gogx2zzBx1T9aKzEQtEZ7Y">SilenceBot - Columbina  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
