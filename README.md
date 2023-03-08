@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello!+I+am+Kyami;Developer+Ori+SilenceBot+And+ColumbinaBot">
   </a>
   <div align="center">
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+<img src="https://i.imgur.com/a/5lyTGjx.gif" align="right" width="373.5px" height="208.5px">
   </div>
 
 <p><em>Developer at <a href="https://chat.whatsapp.com/Gogx2zzBx1T9aKzEQtEZ7Y">SilenceBot - Columbina  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
