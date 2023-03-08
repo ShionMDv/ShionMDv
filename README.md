@@ -1,5 +1,4 @@
 <h1 align="center">Makasih Udah Mampir Coi🔥</h2>
-  <2 href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello!+I+am+Kyami;Developer+Ori+SilenceBot+And+ColumbinaBot">
   </a>
   <div align="center">
